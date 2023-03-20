@@ -1,0 +1,15 @@
+.mainContent {
+	display: flex;
+	align-items: center;
+	flex-flow: nowrap;
+	flex-direction: column;
+	justify-content: center;
+	width: 100%;
+	min-height: 800px;
+	margin-bottom: 3rem;
+	gap: 8rem;
+
+	p {
+		width: 60ch;
+	}
+}
